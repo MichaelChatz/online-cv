@@ -41,43 +41,31 @@ sidebar:
 
       - item: Chelsea and PAOK Thessaloniki fan
         link:
-
+      
+      - item: NOT a Morning Person
+        link:
+        
 career-profile:
     title: My Career Life So Far
     summary: |
       I study Informatics on the Ionian University at Corfu,Greece and i'm on the third year of my studies. I have developed my skills on infromatics
       on a basic level and i am planning on increasing the level in the near future with hard work and loyalty. I also plan to use my skill and expend my knowledge
       on the deparment of networks.
-   
-
-      Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Computer Science
+      university: Ionian University
+      time: 2016 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        I enjoy a lot studying at a University like this, because the level is high and the teachers are great and helpful. Finishing my studies
+        will be quite a challenge because the hours and the programm of the university is a diffuculty.
+        
+        During these years of my studies,i have developed my skills in:
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Java and Javascript
+          - Python
+          - C++
+          - Html
 
 experiences:
     - role: Lead Developer
