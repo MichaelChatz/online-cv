@@ -80,8 +80,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Gaming Emulators
+        level: 70%
+        
       - name: Gimp & Paint
         level: 40%
 
       - name: Vegas Pro
         level: 30%
+        
+      - name: Photoshop
+        level: 20%
