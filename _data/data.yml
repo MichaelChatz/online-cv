@@ -16,32 +16,30 @@ sidebar:
     phone: 6987859634
     website: www.facebook.com/Chatzoglakis #do not add http://
     linkedin: mikechatz
-    github: Mich
+    github: MichealChatz
     gitlab:
     bitbucket:
-    twitter: '@mikechatz'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    instagram: Chatzogliked
 
     languages:
-      - idiom: English
+      - idiom: Greek 
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
+        
     interests:
-      - item: Climbing
+      - item: Gaming
         link:
 
-      - item: Snowboarding
+      - item: Food Lover
         link:
 
-      - item: Cooking
+      - item: Chelsea and PAOK Thessaloniki fan
         link:
 
 career-profile:
