@@ -1,36 +1,15 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-# Settings
-mainfont: Source Sans Pro
-fontsize: 10pt
-lang: en-us
-geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
-address: 
-- Chalkidikis 26
-- 54643 Thessaloniki
-- Greece
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    about: False
+    education: False
 
-    # Profile information
     name: Michael Chatzoglakis
     tagline: Department of Informatics Undergraduate Student
-    avatar: 53216088_2228614040791375_7376056583656046592_n.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
+    avatar: 53216088_2228614040791375_7376056583656046592_n.jpg
+    
     email: mike-xatzoglakis@hotmail.com 
     phone: 6987859634
-    website: michaelchatz.github.io/online-cv/ #do not add http://
-    linkedin: 
+    website: michaelchatz.github.io/online-cv/
     github: MichaelChatz
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
     instagram: chatzogliked
 
     languages:
